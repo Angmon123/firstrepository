@@ -1,0 +1,2 @@
+clc all 
+clear
